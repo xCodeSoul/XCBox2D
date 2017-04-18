@@ -16,3 +16,6 @@ Note: Select Create Groups and Add them into Target of Project
 
 # Box2D World Creation
 
+...
+#include "XCBox2DHelper/XCBox2D.h"
+...
